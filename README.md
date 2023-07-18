@@ -1,4 +1,4 @@
-### Hello there 👋
+## Hello there 👋
 
 I'm **Nisa** *(she/her)*, a passionate programmer, singer, and language lover. Solving problems and collaborating harmoniously are my passions.
 
