@@ -13,7 +13,7 @@ Feel free to reach out for collaborations or mutual growth opportunities. Let's 
 
 #### How to Reach Out to Me
 - [LinkedIn](https://www.linkedin.com/in/nisanurgenc/)
-- [Email](nisanurgenc.yes17@gmail.com)
+- [Email](mailto:nisanurgenc.yes17@gmail.com?subject=[GitHub]%20Source%20Nisanur%20Genc)
 
 ##### Happy coding and exploring! 🚀🌌
 
