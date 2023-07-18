@@ -12,8 +12,8 @@ I'm committed to continuous learning and staying updated with industry trends. E
 Feel free to reach out for collaborations or mutual growth opportunities. Let's create something extraordinary together!
 
 #### How to Reach Out to Me
-[LinkedIn](https://www.linkedin.com/in/nisanurgenc/)
-[Email](nisanurgenc.yes17@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/nisanurgenc/)
+- [Email](nisanurgenc.yes17@gmail.com)
 
 ##### Happy coding and exploring! 🚀🌌
 
