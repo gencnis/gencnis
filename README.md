@@ -1,6 +1,6 @@
 # Hi, I'm Nisa 👋
 
-I build LLM-powered products and computer vision systems that actually ship. Less interested in models sitting in notebooks, more in intelligence that runs in the field.
+I work on LLM-powered products and computer vision systems. Lately my focus has been edge AI and autonomous systems, deploying models close to the field rather than relying on the cloud.
 
 Right now I'm focused on edge AI and autonomous systems.
 
